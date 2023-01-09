@@ -1,0 +1,29 @@
+h1,#index {
+    font-family: 'Nabla', cursive !important;
+}
+
+.name {
+    font-family: 'Tomorrow', sans-serif !important; 
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Fredericka the Great', cursive !important;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+a {
+    font-family: 'Merienda', cursive !important;
+}
+
+
+.justify{
+    justify-content: center;
+    text-justify: center;
+}
